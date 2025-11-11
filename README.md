@@ -26,6 +26,9 @@ Identificar estudiantes con riesgo de abandono para que la institución pueda ap
 
 ---
 
+## Arbol de decision Final
+
+![Árbol de Decisión](arbol_optimizado.png)
 
 
 ---
